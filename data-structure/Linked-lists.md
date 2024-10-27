@@ -146,3 +146,21 @@ list.print(); // Output: 0 -> 1 -> 2 -> null
 list.delete(1);
 list.print(); // Output: 0 -> 2 -> null
 ```
+
+
+> A data structure that contains *** head, tail ***  and  *** length *** property.
+
+- Linked Lists consist of nodes, and each *** nodes *** has a *** value*** and a *** pointer *** to another node or null
+
+
+
+## Array and Link list:
+
+| **Array**                | **Link list** |
+|------------------------------|-----------------------|
+| `indexed in order`           | `Do not have indexes!`|
+| ` Insert and Deletion`       |   `connected via`     |
+| `can be expensive `          | `nodes with a next `  |
+| `Can quickly be accessed `   |      `pointer`        |
+|  `at a specific index`       | `Random access is not`|
+|                              | `allowed`             |
